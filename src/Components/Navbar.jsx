@@ -32,7 +32,7 @@ const Navbar = () => {
             <div className='p-8 '>
                 <img src="https://pokaktech.com/images/dark_logo.png" alt="" />
             </div>
-            <div className='flex gap-10 items-center justify-center pl-24 text-lg font-medium '>
+            <div className='flex gap-11 items-center justify-center pl-24 text-md font-medium '>
                 <a className='hover:text-blue-400 hover:underline' href="">HOME</a>
                 <a className='hover:text-blue-400 hover:underline' href="">ABOUT US</a>
                 <a className='hover:text-blue-400 hover:underline' href="">ODOO ERP</a>
